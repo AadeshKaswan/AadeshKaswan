@@ -7,45 +7,21 @@ alt="Hello World — Aadesh Kaswan"
 
 <br>
 
-<img
-src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:111111&height=2&section=header"
-width="100%"
-alt=""
-/>
-
-<br><br>
-
 <a href="mailto:kaswanaadesh@gmail.com">
-  <img
-    src="https://img.shields.io/badge/MAIL-0D0D0D?style=for-the-badge&logo=gmail&logoColor=FFFFFF"
-    alt="Email"
-  />
+<img src="https://img.shields.io/badge/MAIL-0D0D0D?style=for-the-badge&logo=gmail&logoColor=FFFFFF" alt="Email"/>
 </a>
-
 <a href="YOUR_LINKEDIN_URL">
-  <img
-    src="https://img.shields.io/badge/LINKEDIN-0D0D0D?style=for-the-badge&logo=linkedin&logoColor=FFFFFF"
-    alt="LinkedIn"
-  />
+<img src="https://img.shields.io/badge/LINKEDIN-0D0D0D?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn"/>
 </a>
-
 <a href="YOUR_PORTFOLIO_URL">
-  <img
-    src="https://img.shields.io/badge/PORTFOLIO-0D0D0D?style=for-the-badge&logo=vercel&logoColor=FFFFFF"
-    alt="Portfolio"
-  />
+<img src="https://img.shields.io/badge/PORTFOLIO-0D0D0D?style=for-the-badge&logo=vercel&logoColor=FFFFFF" alt="Portfolio"/>
 </a>
 
 <br><br>
 
-<img
-src="https://komarev.com/ghpvc/?username=AadeshKaswan&style=for-the-badge&color=0D0D0D&label=PROFILE+VIEWS"
-alt="Profile Views"
-/>
+<img src="https://komarev.com/ghpvc/?username=AadeshKaswan&style=for-the-badge&color=0D0D0D&label=PROFILE+VIEWS" alt="Profile Views"/>
 
 </div>
-
-<br>
 
 ---
 
@@ -53,140 +29,150 @@ alt="Profile Views"
 
 # AADESH KASWAN
 
-### `FULL-STACK DEVELOPER`  ·  `UI/UX`  ·  `CREATIVE TECHNOLOGY`
+`FULL-STACK DEVELOPMENT` · `UI/UX` · `3D` · `CREATIVE TECHNOLOGY`
 
-<br>
+**I build digital experiences where design meets engineering.**
 
-> **I build digital experiences where engineering meets design.**
-
-<br>
-
-`IDEA`   →   `DESIGN`   →   `CODE`   →   `SHIP`
-
-<br><br>
-
-`INDIA`  •  `COMPUTER SCIENCE`  •  `3RD YEAR`
+`IDEA` → `DESIGN` → `CODE` → `SHIP`
 
 </div>
-
-<br><br>
 
 ---
 
 <div align="center">
 
-## ABOUT
+## SKILLS
+
+### `LANGUAGES`
+
+<img src="https://img.shields.io/badge/C-18181B?style=for-the-badge&logo=c&logoColor=A8B9CC" />
+<img src="https://img.shields.io/badge/C%2B%2B-18181B?style=for-the-badge&logo=cplusplus&logoColor=00599C" />
+<img src="https://img.shields.io/badge/PYTHON-18181B?style=for-the-badge&logo=python&logoColor=3776AB" />
+<img src="https://img.shields.io/badge/JAVASCRIPT-18181B?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+<img src="https://img.shields.io/badge/TYPESCRIPT-18181B?style=for-the-badge&logo=typescript&logoColor=3178C6" />
+<img src="https://img.shields.io/badge/HTML5-18181B?style=for-the-badge&logo=html5&logoColor=E34F26" />
+<img src="https://img.shields.io/badge/CSS3-18181B?style=for-the-badge&logo=css3&logoColor=1572B6" />
+
+<br><br>
+
+### `FRONTEND`
+
+<img src="https://img.shields.io/badge/REACT-18181B?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/NEXT.JS-18181B?style=for-the-badge&logo=next.js&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/TAILWIND_CSS-18181B?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" />
+<img src="https://img.shields.io/badge/THREE.JS-18181B?style=for-the-badge&logo=threedotjs&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/GSAP-18181B?style=for-the-badge&logo=greensock&logoColor=88CE02" />
+<img src="https://img.shields.io/badge/FRAMER_MOTION-18181B?style=for-the-badge&logo=framer&logoColor=FFFFFF" />
+
+<br><br>
+
+### `BACKEND & DATABASES`
+
+<img src="https://img.shields.io/badge/NODE.JS-18181B?style=for-the-badge&logo=node.js&logoColor=5FA04E" />
+<img src="https://img.shields.io/badge/EXPRESS.JS-18181B?style=for-the-badge&logo=express&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/NESTJS-18181B?style=for-the-badge&logo=nestjs&logoColor=E0234E" />
+<img src="https://img.shields.io/badge/REST_APIS-18181B?style=for-the-badge&logo=fastapi&logoColor=FFFFFF" />
+<br>
+<img src="https://img.shields.io/badge/MONGODB-18181B?style=for-the-badge&logo=mongodb&logoColor=47A248" />
+<img src="https://img.shields.io/badge/MYSQL-18181B?style=for-the-badge&logo=mysql&logoColor=4479A1" />
+<img src="https://img.shields.io/badge/POSTGRESQL-18181B?style=for-the-badge&logo=postgresql&logoColor=4169E1" />
+
+<br><br>
+
+### `DESIGN · 3D · MOTION`
+
+<img src="https://img.shields.io/badge/FIGMA-18181B?style=for-the-badge&logo=figma&logoColor=F24E1E" />
+<img src="https://img.shields.io/badge/PHOTOSHOP-18181B?style=for-the-badge&logo=adobephotoshop&logoColor=31A8FF" />
+<img src="https://img.shields.io/badge/ILLUSTRATOR-18181B?style=for-the-badge&logo=adobeillustrator&logoColor=FF9A00" />
+<img src="https://img.shields.io/badge/PREMIERE_PRO-18181B?style=for-the-badge&logo=adobepremierepro&logoColor=9999FF" />
+<img src="https://img.shields.io/badge/AFTER_EFFECTS-18181B?style=for-the-badge&logo=adobeaftereffects&logoColor=9999FF" />
+<img src="https://img.shields.io/badge/DA VINCI_RESOLVE-18181B?style=for-the-badge&logo=davinciresolve&logoColor=FFFFFF" />
+<br>
+<img src="https://img.shields.io/badge/BLENDER-18181B?style=for-the-badge&logo=blender&logoColor=F5792A" />
+<img src="https://img.shields.io/badge/GAEA-18181B?style=for-the-badge&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/UNREAL_ENGINE-18181B?style=for-the-badge&logo=unrealengine&logoColor=FFFFFF" />
+
+<br><br>
+
+### `TOOLS & WORKFLOW`
+
+<img src="https://img.shields.io/badge/GIT-18181B?style=for-the-badge&logo=git&logoColor=F05032" />
+<img src="https://img.shields.io/badge/GITHUB-18181B?style=for-the-badge&logo=github&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/VERCEL-18181B?style=for-the-badge&logo=vercel&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/DOCKER-18181B?style=for-the-badge&logo=docker&logoColor=2496ED" />
 
 </div>
 
-<br>
+---
+
+<div align="center">
+
+## WHAT I WORK ON
+
+</div>
 
 <table align="center">
 <tr>
 
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-### `01 / DEVELOPMENT`
+### `WEB`
 
-I build full-stack web applications with a strong focus on **frontend engineering, architecture, performance, and user experience.**
-
-Currently working deeper with:
-
-<br>
-
-<img src="https://img.shields.io/badge/REACT-18181B?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-<img src="https://img.shields.io/badge/NEXT.JS-18181B?style=flat-square&logo=next.js&logoColor=FFFFFF" alt="Next.js" />
-<img src="https://img.shields.io/badge/TYPESCRIPT-18181B?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" />
-<img src="https://img.shields.io/badge/NODE.JS-18181B?style=flat-square&logo=node.js&logoColor=5FA04E" alt="Node.js" />
+Full-stack applications, interactive interfaces, APIs, authentication, databases, responsive design, and modern frontend experiences.
 
 </td>
 
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-### `02 / DESIGN`
+### `DESIGN`
 
-I care about the part most people notice **before they read the code.**
+UI/UX, visual systems, typography, layout, motion, interaction design, branding, photo manipulation, and video editing.
 
-**Typography. Layout. Motion. Interaction. Visual hierarchy.**
+</td>
 
-I enjoy taking an idea and turning it into something that feels **intentional, polished, and alive.**
+<td width="33%" valign="top">
 
-<br>
+### `3D / GAME DEV`
 
-`UI/UX`   `FIGMA`   `MOTION`   `VISUAL DESIGN`
+Real-time 3D, environment design, level design, gameplay systems, Unreal Engine, Blender, procedural terrain, and interactive experiences.
 
 </td>
 
 </tr>
 </table>
 
-<br><br>
-
 ---
 
 <div align="center">
 
-## `CURRENTLY`
+## SELECTED PROJECTS
+
+**Portfolio**  
+Interactive personal portfolio focused on design, motion, 3D, and creative development.
+
+`NEXT.JS` · `TYPESCRIPT` · `THREE.JS` · `UI/UX`
 
 <br>
 
-<table align="center">
-<tr>
+**Hired.**  
+Full-stack recruitment platform with AI-assisted resume analysis, ATS-style scoring, job listings, applications, and authentication.
 
-<td align="center" width="180">
+`REACT` · `NODE.JS` · `MONGODB` · `GEMINI`
 
-### 🎓
+<br>
 
-**3RD YEAR**
+**Ashen Dawn**  
+Third-person action prototype built around exploration, combat, level design, and real-time 3D.
 
-Computer Science
-
-</td>
-
-<td align="center" width="180">
-
-### ⚡
-
-**BUILDING**
-
-Real-world projects
-
-</td>
-
-<td align="center" width="180">
-
-### 🎨
-
-**EXPLORING**
-
-Design × Code
-
-</td>
-
-<td align="center" width="180">
-
-### 🎮
-
-**SIDE QUEST**
-
-Unreal Engine
-
-</td>
-
-</tr>
-</table>
+`UNREAL ENGINE` · `BLUEPRINTS` · `3D`
 
 </div>
-
-<br><br>
 
 ---
 
 <div align="center">
 
 ## CONTRIBUTIONS
-
-<br>
 
 <img
 src="https://raw.githubusercontent.com/AadeshKaswan/AadeshKaswan/output/github-contribution-grid-snake-dark.svg"
@@ -195,246 +181,24 @@ alt="GitHub Contribution Snake"
 
 <br><br>
 
-<sub>
-A little green pixel every time I convince myself I should build one more thing.
-</sub>
-
-</div>
-
-
-<br><br>
-
----
-
-<div align="center">
-
-## TECH STACK
-
-<br>
-
-<table align="center">
-<tr>
-
-<td align="center" width="33%">
-
-### `LANGUAGES`
-
-<br>
-
-<img src="https://img.shields.io/badge/JAVASCRIPT-18181B?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
-
-<br><br>
-
-<img src="https://img.shields.io/badge/TYPESCRIPT-18181B?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript" />
-
-<br><br>
-
-<img src="https://img.shields.io/badge/C%2B%2B-18181B?style=for-the-badge&logo=cplusplus&logoColor=00599C" alt="C++" />
-
-</td>
-
-<td align="center" width="33%">
-
-### `FRONTEND`
-
-<br>
-
-<img src="https://img.shields.io/badge/REACT-18181B?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-
-<br><br>
-
-<img src="https://img.shields.io/badge/NEXT.JS-18181B?style=for-the-badge&logo=next.js&logoColor=FFFFFF" alt="Next.js" />
-
-<br><br>
-
-<img src="https://img.shields.io/badge/TAILWIND-18181B?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind CSS" />
-
-</td>
-
-<td align="center" width="33%">
-
-### `BACKEND`
-
-<br>
-
-<img src="https://img.shields.io/badge/NODE.JS-18181B?style=for-the-badge&logo=node.js&logoColor=5FA04E" alt="Node.js" />
-
-<br><br>
-
-<img src="https://img.shields.io/badge/EXPRESS-18181B?style=for-the-badge&logo=express&logoColor=FFFFFF" alt="Express" />
-
-<br><br>
-
-<img src="https://img.shields.io/badge/MONGODB-18181B?style=for-the-badge&logo=mongodb&logoColor=47A248" alt="MongoDB" />
-
-</td>
-
-</tr>
-</table>
-
-<br>
-
-### `DESIGN`
-
-<img src="https://img.shields.io/badge/FIGMA-18181B?style=for-the-badge&logo=figma&logoColor=F24E1E" alt="Figma" />
-<img src="https://img.shields.io/badge/PHOTOSHOP-18181B?style=for-the-badge&logo=adobephotoshop&logoColor=31A8FF" alt="Adobe Photoshop" />
-<img src="https://img.shields.io/badge/PREMIERE_PRO-18181B?style=for-the-badge&logo=adobepremierepro&logoColor=9999FF" alt="Adobe Premiere Pro" />
-
-<br><br>
-
-### `TOOLS`
-
-<img src="https://img.shields.io/badge/GIT-18181B?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" />
-<img src="https://img.shields.io/badge/GITHUB-18181B?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub" />
-<img src="https://img.shields.io/badge/VERCEL-18181B?style=for-the-badge&logo=vercel&logoColor=FFFFFF" alt="Vercel" />
-<img src="https://img.shields.io/badge/UNREAL_ENGINE-18181B?style=for-the-badge&logo=unrealengine&logoColor=FFFFFF" alt="Unreal Engine" />
-
-</div>
-
-<br><br>
-
----
-
-<div align="center">
-
-## THINGS I'M BUILDING
-
-<br>
-
-<table align="center">
-<tr>
-
-<td width="33%" valign="top">
-
-### `01`
-
-## Portfolio
-
-A highly interactive personal website combining **development, design, and visual storytelling.**
-
-<br>
-
-`NEXT.JS`
-
-`TYPESCRIPT`
-
-`UI/UX`
-
-</td>
-
-<td width="33%" valign="top">
-
-### `02`
-
-## Full-Stack Product
-
-A serious application built to understand how real products are **designed, engineered, and deployed.**
-
-<br>
-
-`REACT`
-
-`NODE.JS`
-
-`DATABASE`
-
-</td>
-
-<td width="33%" valign="top">
-
-### `03`
-
-## Ashen Dawn
-
-A small third-person action experience exploring **Unreal Engine, level design, and gameplay systems.**
-
-<br>
-
-`UNREAL`
-
-`BLUEPRINTS`
-
-`3D`
-
-</td>
-
-</tr>
-</table>
-
-</div>
-
-<br><br>
-
----
-
-<div align="center">
-
-## GITHUB / DATA
-
-<br>
-
 <img
-src="https://github-readme-stats.vercel.app/api?username=AadeshKaswan&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=transparent&rank_icon=github&custom_title=GitHub%20Activity"
-height="180"
+src="https://github-readme-stats.vercel.app/api?username=AadeshKaswan&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=transparent&rank_icon=github&custom_title=GitHub+Activity"
+height="170"
 alt="GitHub Activity"
 />
 
 <img
-src="https://streak-stats.demolab.com?user=AadeshKaswan&theme=transparent&hide_border=true&short_numbers=true"
-height="180"
-alt="GitHub Streak"
-/>
-
-<br><br>
-
-<img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=AadeshKaswan&layout=donut&hide_border=true&theme=transparent&langs_count=8"
-height="180"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=AadeshKaswan&layout=compact&hide_border=true&theme=transparent&langs_count=8"
+height="170"
 alt="Top Languages"
 />
 
 </div>
 
-<br><br>
-
----
-
-<div align="center">
-
-## ACHIEVEMENTS
-
 <br>
 
-<img
-src="https://github-profile-trophy.vercel.app/?username=AadeshKaswan&theme=flat&no-frame=true&no-bg=true&margin-w=10&margin-h=10&row=2&column=6"
-alt="GitHub Trophies"
-/>
-
-</div>
-
-<br><br>
-
----
-
 <div align="center">
 
-<img
-src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent"
-alt="Random Quote"
-/>
-
-</div>
-
-<br><br>
-
----
-
-<div align="center">
-
-<img
-src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:27272A&height=120&section=footer"
-width="100%"
-alt="Footer"
-/>
+`FULL-STACK` · `DESIGN` · `3D` · `CREATIVE TECHNOLOGY`
 
 </div>
