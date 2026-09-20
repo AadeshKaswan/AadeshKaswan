@@ -10,7 +10,7 @@ alt="Hello World — Aadesh Kaswan"
 <a href="mailto:kaswanaadesh@gmail.com">
 <img src="https://img.shields.io/badge/MAIL-0D0D0D?style=for-the-badge&logo=gmail&logoColor=FFFFFF" alt="Email"/>
 </a>
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/aadeshkaswan/">
 <img src="https://img.shields.io/badge/LINKEDIN-0D0D0D?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn"/>
 </a>
 <a href="YOUR_PORTFOLIO_URL">
